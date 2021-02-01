@@ -59,7 +59,7 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Tensorflow" width="35px" src="https://4.bp.blogspot.com/-mya0XZqrtJs/XoN9SufkS2I/AAAAAAAAC5w/y5POjjt0Rs8B8uLLO1gegGb74MYTx7W7gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" /> 
 <img align="left" alt="Python" width="35px" src="https://symbols-electrical.getvecta.com/stencil_92/73_python-icon.1aed35c3f5.png" /> 
-<img align="left" alt="C++" width="35px" src="https://image.flaticon.com/icons/png/512/74/74897.png" /> 
+<img align="left" alt="C++" width="35px" src="https://img.favpng.com/0/23/17/c-computer-icons-computer-programming-logo-png-favpng-6fyxspRKMDLCKzyzU0YNmSNJw.jpg" /> 
 <br>
 <br>
 <br>
