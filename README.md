@@ -29,7 +29,7 @@
 ### I am a Software Developer pursuing BTECH CSE
 
 -   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 I’m a Full Stack Developer and Data Scientist.
+-   🌱 I’m a Software Developer and Data Scientist.
 -   👯 I’m looking to collaborate with other Developers :wink:
 -   🥅 2021 Goals: Contribute to Novel Research ideas and Try out Competitive Coding
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
