@@ -6,9 +6,6 @@
   <h4 align="center"><b>"Passionately Curious"</b></h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
 
 <p align="center">
 <br>
