@@ -22,16 +22,15 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Developer pursuing BTECH CSE
+### I am a Masters Students studying Data Science 
 
--   🔭 I’m currently working on various projects and research papers :grin:
--   🌱 I’m a Software Developer and Data Scientist.
--   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2021 Goals: Contribute to Novel Research ideas and Try out Competitive Coding
+-   🔭 I’m currently studying Computational Data Science at Carnegie Mellon University :grin:
+-   🌱 I’m a Machine Learning Engineer.
+-   👯 I’m looking to collaborate with other Developers in AI/ML :wink:
 -   💬 Feel free to reach me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Explore new paths and push my limits
--   ⚡ Fun fact: I love connecting with different people :raised_hands:
+-   ⚡ Fun fact: I love connecting with different people and love to sing :raised_hands:
 
 <br>
 
